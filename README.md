@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=unbounded&size=25&duration=2000&pause=1000&color=9D7CD8&repeat=false&random=true&width=435&lines=hi%2C+i'm+mark!+(i+use+NixOS+btw))](https://git.io/typing-svg)
 
-<!--
-**xhos/xhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/9c/62/dd/9c62dd185a366d19f98a457226ea1496.gif" alt="Pixel Art" align="right" width="300">
 
-Here are some ideas to get you started:
+[![languages](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![languages](https://skillicons.dev/icons?i=c,cpp,js,python,nix)
+
+[![tools](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=tools%3A)](https://git.io/typing-svg)
+
+![tools](https://skillicons.dev/icons?i=git,aws,nodejs,html,css)
+
+[![currently learning](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=currently+learning%3A)](https://git.io/typing-svg)
+
+![learning](https://skillicons.dev/icons?i=kubernetes,rust,ts,java,bash)
+
+---
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  </a>
+</div>
