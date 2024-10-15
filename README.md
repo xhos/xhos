@@ -16,7 +16,7 @@
 
 ---
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
+  <a href="https://github.com/xhos">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
   </a>
