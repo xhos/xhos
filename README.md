@@ -4,7 +4,7 @@
 
 [![languages](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=languages%3A)](https://git.io/typing-svg)
 
-![languages](https://skillicons.dev/icons?i=c,cpp,js,python,nix)
+![languages](https://skillicons.dev/icons?i=go,cpp,python,js,nix,bash)
 
 [![tools](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=tools%3A)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 [![currently learning](https://readme-typing-svg.demolab.com?font=unbounded&duration=2000&pause=1000&color=7AA2F7&repeat=false&random=true&width=435&lines=currently+learning%3A)](https://git.io/typing-svg)
 
-![learning](https://skillicons.dev/icons?i=kubernetes,rust,ts,java,bash)
+![learning](https://skillicons.dev/icons?i=kubernetes,rust,ts)
 
 ---
 <div align="center" style="display: flex; justify-content: center;">
