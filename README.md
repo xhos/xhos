@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=unbounded&size=25&duration=2000&pause=1000&color=9D7CD8&repeat=false&random=true&width=435&lines=hi%2C+i'm+mark!+(i+use+NixOS+btw))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=unbounded&size=25&duration=2000&pause=1000&color=9D7CD8&repeat=false&random=true&width=435&lines=hi%2C+i'm+mark!)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/9c/62/dd/9c62dd185a366d19f98a457226ea1496.gif" alt="Pixel Art" align="right" width="300">
 
