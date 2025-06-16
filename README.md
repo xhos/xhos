@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Wko0YCY.png" align="right" width="150">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+IBM+Plex+Mono+&size=26&duration=2000&pause=1000&color=9D7CD8&width=535&lines=%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*)+hi%2C+i'm+mark!;i+trick+rocks+into+thinking;feel+free+to+take+a+look+at+my+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+IBM+Plex+Mono+&size=26&duration=2000&pause=1000&color=9D7CD8&width=635&lines=%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*)+hi%2C+i'm+mark!;i+trick+rocks+into+thinking;feel+free+to+take+a+look+at+my+work)](https://git.io/typing-svg)
 
 [![stuff](https://readme-typing-svg.demolab.com?font=+IBM+Plex+Mono+&duration=2000&pause=1000&color=9D7CD8&repeat=false&random=true&width=435&lines=my+favorite+tools%3A)](https://git.io/typing-svg)
 
