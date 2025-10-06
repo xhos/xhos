@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/Wko0YCY.png" align="right" width="150">
 
-I mostly write Go, but I'll reach for Rust or Python when the project calls for it. I can do webdev too if I have to (next.js). 
+I mostly write Go, but I'll reach for Rust(lower level stuff) or Python(ML/OCR) occasinally. I can do web dev too if I have to (next.js maily).  
 
 big fan of spending days automating something that takes 30 seconds manually.
 
-**what i'm currently working on:**
-- [nixdots](https://github.com/xhos/nixdots) - my entire digital life as code. NixOS configs for 5+ machines. yes, I put NixOS on everything. no, I don't have a problem.
-- [arian](https://github.com/xhos/ariand) - finance tracker that's definitely overengineered for what it does. built it because existing FOSS solutions are either annouying or too rigid.
-- check the pinned repos below for other recent stuff
+**what I’m currently working on:**
+- [nixdots](https://github.com/xhos/nixdots) — my entire digital life as code. NixOS configs for 5+ machines. yes, I put NixOS on everything. no, I don't have a problem.  
+- [arian](https://github.com/xhos/ariand) — a finance tracker that's definitely overengineered for what it does. built it because existing FOSS solutions are either annoying or too rigid.  
+- check the pinned repos below for other recent stuff.
 
 <details>
 <summary>stats</summary>
