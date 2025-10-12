@@ -9,11 +9,11 @@ big fan of spending days automating something that takes 30 seconds manually
 - [arian](https://github.com/xhos/ariand) - a finance tracker that's definitely overengineered for what it does. built it because existing FOSS solutions are either annoying or too rigid
 - check the pinned repos below for other recent stuff
 
-<details>
-<summary>stats</summary>
-<br>
+
+
 <div align="center" style="display: flex; justify-content: center;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhos&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=xhos&theme=transparent&show_icons=true&hide_border=true&count_private=true&custom_title=activity&hide_rank=true"/>
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhos&theme=transparent&show_icons=true&hide_border=true&layout=donut&custom_title=most%20used%20languages"/>
+    <img height="500px" src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.xhos.dev&username=Mark&hide_border=true&theme=transparent&custom_title=wakatime%20(last%207%20days)&layout=compact"/>
 </div>
-</details>
+
