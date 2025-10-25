@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Wko0YCY.png" align="right" width="150">
 
-I mostly write Go, but I'll reach for Rust(lower level stuff) or Python(ML/OCR) occasinally. I can also do webdev if I really have to (next.js maily)
+I mostly write Go, but I'll reach for Rust or Python occasinally. I can also do webdev if I really have to (next.js maily)
 
 big fan of spending days automating something that takes 30 seconds manually
 
