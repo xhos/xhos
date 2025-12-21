@@ -6,7 +6,7 @@ big fan of spending days automating something that takes 30 seconds manually.
 
 **what i'm currently working on:**
 - [yawn](https://github.com/xhos/yawn) - a minimalistic yet good-looking TUI greeter. it's so boring you'd wanna yawn after using it, and boring is exactly what a greeter should be
-- [nixdots](https://github.com/xhos/nixdots) - my entire digital life as code. nixos flake used on 5+ machines. yes, i put nixos on everything. no, i don't have a problem, thanks for asking
+- [nix](https://github.com/xhos/nix) - my entire digital life as code. nixos flake used on 5+ machines. yes, i put nixos on everything. no, i don't have a problem, thanks for asking
 - [arian](https://github.com/xhos/ariand) - a finance tracker that's definitely overengineered for what it does. built it because existing FOSS solutions are either annoying or too rigid
 - see pins below for other recent stuff
 
