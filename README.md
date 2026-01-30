@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/Wko0YCY.png" align="right" width="150">
 
-i mostly write Go, but occasionally reach for Rust or Python. i can also do some web development if i really have to, mainly with Next.js.
+I mostly write Go, but occasionally reach for Rust or Python. I'm capable of some webdev if held on gunpoint as well, mainly with Next.js.
 
 big fan of spending days automating something that takes 30 seconds manually.
 
 **what i'm currently working on:**
 - [yawn](https://github.com/xhos/yawn) - a minimalistic yet good-looking TUI greeter. it's so boring you'd wanna yawn after using it, and boring is exactly what a greeter should be
-- [nix](https://github.com/xhos/nix) - my entire digital life as code. nixos flake used on 5+ machines. yes, i put nixos on everything. no, i don't have a problem, thanks for asking
-- [arian](https://github.com/xhos/ariand) - a finance tracker that's definitely overengineered for what it does. built it because existing FOSS solutions are either annoying or too rigid
+- [null](https://github.com/xhos/null) - a personal finance tracker I'm working on, designed to be extensible and flexible, while keeping things dev friendly and simple
+- [nix](https://github.com/xhos/nix) - my declarative Nix system flake for ~5 hosts, a homelab and even a phone. yeah it might have gone too far
 - see pins below for other recent stuff
 
 <details>
